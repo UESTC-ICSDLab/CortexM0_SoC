@@ -4,7 +4,7 @@ module CortexM0_SoC (
         input  wire  RSTn,
         inout  wire  SWDIO,  
         input  wire  SWCLK,
-        output wire [7:0] LED;
+        output wire [7:0] LED
 );
 
 //------------------------------------------------------------------------------
