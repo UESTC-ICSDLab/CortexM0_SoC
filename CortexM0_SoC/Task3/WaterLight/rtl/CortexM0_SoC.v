@@ -5,7 +5,7 @@ module CortexM0_SoC (
         inout  wire  SWDIO,  
         input  wire  SWCLK,
         output wire [7:0] LED,
-        output wire       LEDclk
+
 );
 
 //------------------------------------------------------------------------------
@@ -15,6 +15,7 @@ module CortexM0_SoC (
 wire SWDO;
 wire SWDOEN;
 wire SWDI;
+wire LEDclk;
 
 assign SWDI = SWDIO;
 assign SWDIO = (SWDOEN) ?  SWDO : 1'bz;
