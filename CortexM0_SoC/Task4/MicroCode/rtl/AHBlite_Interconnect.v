@@ -196,7 +196,7 @@ assign HWRITE_P2     =   HWRITE;
 assign HWRITE_P3     =   HWRITE;
 assign HWRITE_P4     =   HWRITE;
 assign HWRITE_P5     =   HWRITE;
-assign HWDATA_P6     =   HWDATA;
+assign HWRITE_P6     =   HWRITE;
 
 // HREADY
 assign HREADY_P0     =   HREADY;
@@ -205,7 +205,7 @@ assign HREADY_P2     =   HREADY;
 assign HREADY_P3     =   HREADY;
 assign HREADY_P4     =   HREADY;
 assign HREADY_P5     =   HREADY;
-assign HWDATA_P6     =   HWDATA;
+assign HREADY_P6     =   HREADY;
 
 // Decoder---------------------------------------
 //-----------------------------------------------
