@@ -31,7 +31,7 @@ wire [3:0] key_interrupt;
 Keyboard kb(
     .HCLK(clk),
     .HRESETn(RSTn),
-    .col(col),
+    .col(~col),
     .key_interrupt(key_interrupt)
     );
 
