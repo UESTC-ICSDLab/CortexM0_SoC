@@ -1,0 +1,49 @@
+
+
+
+ARM Macro Assembler    Page 1 
+
+
+    1 00000000                 AREA             SCopy, CODE, READONLY
+    2 00000000                 EXPORT           strcopy
+    3 00000000         strcopy
+    4 00000000 780A            LDRB             r2,     [r1] ; r1?????????,????
+                                                            ?????????
+    5 00000002 3101            ADDS             r1,     #1
+    6 00000004 7002            STRB             r2,     [r0] ; r0??????????,???
+                                                            ??????????
+    7 00000006 3001            ADDS             r0,     #1
+    8 00000008 2A00            CMP              r2,     #0  ; ?????????
+    9 0000000A D1FE            BNE              strcopy     ; ????????,???????
+   10 0000000C 4770            BX               lr          ; ???????
+   11 0000000E                 END
+Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M0 --apcs=interw
+ork --depend=.\strcopy.d -o.\strcopy.o -I.\RTE\_Target_1 -ID:\Keil_v5\ARM\PACK\
+Keil\V2M-MPS2_CMx_BSP\1.8.1\Device\CMSDK_CM0\Include -ID:\Keil_v5\ARM\CMSIS\Inc
+lude --predefine="__UVISION_VERSION SETA 525" --predefine="CMSDK_CM0 SETA 1" --
+list=.\listings\strcopy.lst ..\..\call\strcopy.s
+
+
+
+ARM Macro Assembler    Page 1 Alphabetic symbol ordering
+Relocatable symbols
+
+SCopy 00000000
+
+Symbol: SCopy
+   Definitions
+      At line 1 in file ..\..\call\strcopy.s
+   Uses
+      None
+Comment: SCopy unused
+strcopy 00000000
+
+Symbol: strcopy
+   Definitions
+      At line 3 in file ..\..\call\strcopy.s
+   Uses
+      At line 2 in file ..\..\call\strcopy.s
+      At line 9 in file ..\..\call\strcopy.s
+
+2 symbols
+334 symbols in table

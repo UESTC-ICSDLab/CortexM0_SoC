@@ -1,0 +1,55 @@
+
+
+
+ARM Macro Assembler    Page 1 
+
+
+    1 00000000                 EXPORT           f
+    2 00000000                 PRESERVE8
+    3 00000000                 AREA             f,CODE,READONLY
+    4 00000000                 ENTRY
+    5 00000000                 IMPORT           g
+    6 00000000 B500            PUSH             {lr}
+    7 00000002 2002            MOVS             r0, #2
+    8 00000004 1801            ADDS             r1, r0, r0
+    9 00000006 180A            ADDS             r2, r1, r0
+   10 00000008 184B            ADDS             r3, r1, r1
+   11 0000000A F7FF FFFE       BL               g
+   12 0000000E BD00            POP              {pc}
+   13 00000010                 END
+Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M0 --apcs=interw
+ork --depend=.\f.d -o.\f.o -I.\RTE\_Target_1 -ID:\Keil_v5\ARM\PACK\Keil\V2M-MPS
+2_CMx_BSP\1.8.1\Device\CMSDK_CM0\Include -ID:\Keil_v5\ARM\CMSIS\Include --prede
+fine="__UVISION_VERSION SETA 525" --predefine="CMSDK_CM0 SETA 1" --list=.\listi
+ngs\f.lst ..\..\call\f.s
+
+
+
+ARM Macro Assembler    Page 1 Alphabetic symbol ordering
+Relocatable symbols
+
+f 00000000
+
+Symbol: f
+   Definitions
+      At line 3 in file ..\..\call\f.s
+   Uses
+      At line 1 in file ..\..\call\f.s
+Comment: f used once
+1 symbol
+
+
+
+ARM Macro Assembler    Page 1 Alphabetic symbol ordering
+External symbols
+
+g 00000000
+
+Symbol: g
+   Definitions
+      At line 5 in file ..\..\call\f.s
+   Uses
+      At line 11 in file ..\..\call\f.s
+Comment: g used once
+1 symbol
+334 symbols in table

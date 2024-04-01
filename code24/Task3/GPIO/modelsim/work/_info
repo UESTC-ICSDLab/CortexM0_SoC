@@ -1,0 +1,260 @@
+m255
+K4
+z2
+!s11e vcom 2020.4 2020.10, Oct 13 2020
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task2/modelsim
+T_opt
+!s110 1706946611
+VTGNl84jMoXSU`9PCPSQj40
+04 20 4 work CortexM0_SoC_vlg_tst fast 0
+=1-581cf8d8e019-65bdf032-2d1-7920
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vAHBlite_Block_RAM
+!s110 1706946584
+!i10b 1
+!s100 29^6YiJ4F7BJ=_n5]eDjK2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I7JX9_:UkKk;lGf263EUM^0
+Z2 dC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/modelsim
+Z3 w1705922214
+8C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/AHBlite_Block_RAM.v
+FC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/AHBlite_Block_RAM.v
+!i122 10
+L0 1 77
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+!s108 1706946584.000000
+!s107 C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/AHBlite_Block_RAM.v|
+!s90 -reportprogress|300|-work|work|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/AHBlite_Block_RAM.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+n@a@h@blite_@block_@r@a@m
+vAHBlite_Decoder
+Z7 !s110 1706946585
+!i10b 1
+!s100 :e<Db^NkQ3f4b<WkUAd:m1
+R1
+IoBhj;GfSV<jO2abZTVZTH0
+R2
+w1706770678
+8C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/AHBlite_Decoder.v
+FC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/AHBlite_Decoder.v
+!i122 11
+L0 1 80
+R4
+R5
+r1
+!s85 0
+31
+Z8 !s108 1706946585.000000
+!s107 C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/AHBlite_Decoder.v|
+!s90 -reportprogress|300|-work|work|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/AHBlite_Decoder.v|
+!i113 0
+R6
+R0
+n@a@h@blite_@decoder
+vAHBlite_GPIO
+R7
+!i10b 1
+!s100 Rm^Q3]S]l<2dlmTV[<9k<2
+R1
+Id6oFSj>ZT_^B4d`?dlDTP2
+R2
+R3
+8C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/AHBlite_GPIO.v
+FC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/AHBlite_GPIO.v
+!i122 12
+L0 1 75
+R4
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/AHBlite_GPIO.v|
+!s90 -reportprogress|300|-work|work|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/AHBlite_GPIO.v|
+!i113 0
+R6
+R0
+n@a@h@blite_@g@p@i@o
+vAHBlite_Interconnect
+R7
+!i10b 1
+!s100 Z`GbZ0@En8ffZn2b0XPO73
+R1
+Icclg3lB?eMV^P5IPj?kE93
+R2
+R3
+8C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/AHBlite_Interconnect.v
+FC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/AHBlite_Interconnect.v
+!i122 13
+L0 1 219
+R4
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/AHBlite_Interconnect.v|
+!s90 -reportprogress|300|-work|work|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/AHBlite_Interconnect.v|
+!i113 0
+R6
+R0
+n@a@h@blite_@interconnect
+vAHBlite_SlaveMUX
+R7
+!i10b 1
+!s100 Y2397V25=5Xoz@jzFaXCE0
+R1
+IcVXZDRMCO3TJ1IJ1]M`1Y1
+R2
+R3
+8C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/AHBlite_SlaveMUX.v
+FC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/AHBlite_SlaveMUX.v
+!i122 14
+L0 1 99
+R4
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/AHBlite_SlaveMUX.v|
+!s90 -reportprogress|300|-work|work|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/AHBlite_SlaveMUX.v|
+!i113 0
+R6
+R0
+n@a@h@blite_@slave@m@u@x
+vBlock_RAM
+R7
+!i10b 1
+!s100 R^Ph2G<>=YfQofj8BOV1g1
+R1
+I`_`R<CD[nQ7ZYcedU]`oZ0
+R2
+w1706793522
+8C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/Block_RAM.v
+FC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/Block_RAM.v
+!i122 15
+L0 1 35
+R4
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/Block_RAM.v|
+!s90 -reportprogress|300|-work|work|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/Block_RAM.v|
+!i113 0
+R6
+R0
+n@block_@r@a@m
+vCortexM0_SoC
+R7
+!i10b 1
+!s100 JmlIA2;oXP<o8`=Cl>h>j0
+R1
+IWENm[l<a:9_[M<koh8BHc0
+R2
+w1706787722
+8C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/CortexM0_SoC.v
+FC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/CortexM0_SoC.v
+!i122 16
+L0 2 450
+R4
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/CortexM0_SoC.v|
+!s90 -reportprogress|300|-work|work|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/CortexM0_SoC.v|
+!i113 0
+R6
+R0
+n@cortex@m0_@so@c
+vCortexM0_SoC_vlg_tst
+R7
+!i10b 1
+!s100 O2oYmb=jVF9;zQZE?M0BY2
+R1
+Igf7GCcVGcZnnQg7SBM[[52
+R2
+w1705922213
+8C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/modelsim/CortexM0_SoC_vlg_tst.v
+FC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/modelsim/CortexM0_SoC_vlg_tst.v
+!i122 17
+L0 2 23
+R4
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/modelsim/CortexM0_SoC_vlg_tst.v|
+!s90 -reportprogress|300|-work|work|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/modelsim/CortexM0_SoC_vlg_tst.v|
+!i113 0
+R6
+R0
+n@cortex@m0_@so@c_vlg_tst
+vcortexm0ds_logic
+R7
+!i10b 1
+!s100 G<3Q_bN@PV<MKFdgj4zVA1
+R1
+ILWaPkCL`omd;>bbbZhF6X0
+R2
+R3
+8C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/cortexm0ds_logic.v
+FC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/cortexm0ds_logic.v
+!i122 18
+L0 27 20248
+R4
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/cortexm0ds_logic.v|
+!s90 -reportprogress|300|-work|work|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/cortexm0ds_logic.v|
+!i113 0
+R6
+R0
+vGPIO
+R7
+!i10b 1
+!s100 Ka0?IP`60i`GJFOCJ`^5Q2
+R1
+I_U9Z<R`^=OXJ[`2cG=fGz2
+R2
+R3
+8C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/GPIO.v
+FC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/GPIO.v
+!i122 19
+L0 1 19
+R4
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/GPIO.v|
+!s90 -reportprogress|300|-work|work|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/rtl/GPIO.v|
+!i113 0
+R6
+R0
+n@g@p@i@o

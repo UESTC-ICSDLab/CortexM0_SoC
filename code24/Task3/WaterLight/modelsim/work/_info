@@ -1,0 +1,259 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/GPIO/modelsim
+T_opt
+!s110 1706947108
+VgmBMCED<[GIiJZh9bLB>E2
+04 20 4 work CortexM0_SoC_vlg_tst fast 0
+=1-581cf8d8e019-65bdf224-22d-3d44
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vAHBlite_Block_RAM
+Z1 !s110 1706947088
+!i10b 1
+!s100 29^6YiJ4F7BJ=_n5]eDjK2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ig5cG9VS<24jnWl?6[YOmV1
+Z3 dC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/modelsim
+Z4 w1705922215
+8C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/AHBlite_Block_RAM.v
+FC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/AHBlite_Block_RAM.v
+!i122 1
+L0 1 77
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z7 !s108 1706947088.000000
+!s107 C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/AHBlite_Block_RAM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/AHBlite_Block_RAM.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+n@a@h@blite_@block_@r@a@m
+vAHBlite_Decoder
+R1
+!i10b 1
+!s100 ;6KIU79k=UeT<3`aJHChM2
+R2
+Ic>EzfgQMcXN=HMB11XIn01
+R3
+w1706880883
+8C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/AHBlite_Decoder.v
+FC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/AHBlite_Decoder.v
+!i122 2
+L0 1 64
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/AHBlite_Decoder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/AHBlite_Decoder.v|
+!i113 0
+R8
+R0
+n@a@h@blite_@decoder
+vAHBlite_Interconnect
+R1
+!i10b 1
+!s100 Qez>Cj=]A`OkT[]]O3EFE0
+R2
+I?O?`ZYPNBhc13m;c5nEOi0
+R3
+R4
+8C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/AHBlite_Interconnect.v
+FC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/AHBlite_Interconnect.v
+!i122 3
+L0 1 188
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/AHBlite_Interconnect.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/AHBlite_Interconnect.v|
+!i113 0
+R8
+R0
+n@a@h@blite_@interconnect
+vAHBlite_SlaveMUX
+R1
+!i10b 1
+!s100 l^CSz=X7aGAgLGLfHgU5U0
+R2
+ImZ[:M5=Z;<U?mA>o66Gj53
+R3
+R4
+8C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/AHBlite_SlaveMUX.v
+FC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/AHBlite_SlaveMUX.v
+!i122 4
+L0 1 90
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/AHBlite_SlaveMUX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/AHBlite_SlaveMUX.v|
+!i113 0
+R8
+R0
+n@a@h@blite_@slave@m@u@x
+vAHBlite_WaterLight
+R1
+!i10b 1
+!s100 eGi_Sm]IK]ofJ6ciXadP91
+R2
+IC7Gz9MRXW:CaZOXcgojg73
+R3
+R4
+8C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/AHBlite_WaterLight.v
+FC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/AHBlite_WaterLight.v
+!i122 5
+L0 1 52
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/AHBlite_WaterLight.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/AHBlite_WaterLight.v|
+!i113 0
+R8
+R0
+n@a@h@blite_@water@light
+vBlock_RAM
+R1
+!i10b 1
+!s100 _@Di>mV9EGF=Ymfd_bIk61
+R2
+I?O329GC2R6[;F7nk=glNT0
+R3
+w1706761657
+8C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/Block_RAM.v
+FC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/Block_RAM.v
+!i122 6
+L0 1 35
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/Block_RAM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/Block_RAM.v|
+!i113 0
+R8
+R0
+n@block_@r@a@m
+vCortexM0_SoC
+R1
+!i10b 1
+!s100 1A7mb9QLAb];:<@HNB8DX0
+R2
+InRL@EjNhzX6oBHUG?U_TE3
+R3
+w1706885745
+8C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/CortexM0_SoC.v
+FC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/CortexM0_SoC.v
+!i122 7
+L0 2 403
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/CortexM0_SoC.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/CortexM0_SoC.v|
+!i113 0
+R8
+R0
+n@cortex@m0_@so@c
+vCortexM0_SoC_vlg_tst
+R1
+!i10b 1
+!s100 cWbcn8;[Odac;dglW83?22
+R2
+I@DMXRXhNzo6Rz2BMOdj3A2
+R3
+R4
+8C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/modelsim/CortexM0_SoC_vlg_tst.v
+FC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/modelsim/CortexM0_SoC_vlg_tst.v
+!i122 0
+L0 2 24
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/modelsim/CortexM0_SoC_vlg_tst.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/modelsim/CortexM0_SoC_vlg_tst.v|
+!i113 0
+R8
+R0
+n@cortex@m0_@so@c_vlg_tst
+vcortexm0ds_logic
+Z9 !s110 1706947089
+!i10b 1
+!s100 G<3Q_bN@PV<MKFdgj4zVA1
+R2
+I5fMJ[[YHThWCMSoXi7h^E0
+R3
+R4
+8C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/cortexm0ds_logic.v
+FC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/cortexm0ds_logic.v
+!i122 8
+L0 27 20248
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/cortexm0ds_logic.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/cortexm0ds_logic.v|
+!i113 0
+R8
+R0
+vWaterLight
+R9
+!i10b 1
+!s100 51bDnHcABO]beiL]KW<eS1
+R2
+Iga78_NISz_BhG?Pad_1jE3
+R3
+w1706946669
+8C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/WaterLight.v
+FC:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/WaterLight.v
+!i122 9
+L0 1 98
+R5
+R6
+r1
+!s85 0
+31
+!s108 1706947089.000000
+!s107 C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/WaterLight.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/13249/Desktop/Alinx/CortexM0_SoC-main/CortexM0_SoC-main/Task3/WaterLight/rtl/WaterLight.v|
+!i113 0
+R8
+R0
+n@water@light

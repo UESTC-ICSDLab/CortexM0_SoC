@@ -1,0 +1,13 @@
+Dependencies for Project 'Task4', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_CMSDK_CM0.s)(0x65BFAE83)(--cpu Cortex-M0 -g --apcs=interwork -I.\RTE\_Target_1-ID:\Keil_v5\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.8.1\Device\CMSDK_CM0\Include-ID:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 525" --pd "CMSDK_CM0 SETA 1"--list .\listings\startup_cmsdk_cm0.lst --xref -o .\objects\startup_cmsdk_cm0.o --depend .\objects\startup_cmsdk_cm0.d)
+F (.\code_def.c)(0x65AE4EA9)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\Keil_v5\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.8.1\Device\CMSDK_CM0\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DCMSDK_CM0-o .\objects\code_def.o --omf_browse .\objects\code_def.crf --depend .\objects\code_def.d)
+I (code_def.h)(0x65BFB0F7)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x5475F300)
+F (.\keyboard.c)(0x65BFB122)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\Keil_v5\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.8.1\Device\CMSDK_CM0\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DCMSDK_CM0-o .\objects\keyboard.o --omf_browse .\objects\keyboard.crf --depend .\objects\keyboard.d)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (code_def.h)(0x65BFB0F7)
+F (.\main.c)(0x65BFB134)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\Keil_v5\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.8.1\Device\CMSDK_CM0\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DCMSDK_CM0-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (code_def.h)(0x65BFB0F7)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x5475F300)

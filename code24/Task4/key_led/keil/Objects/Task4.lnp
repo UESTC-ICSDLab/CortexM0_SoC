@@ -1,0 +1,8 @@
+--cpu Cortex-M0
+".\objects\keyboard.o"
+".\objects\main.o"
+".\objects\startup_cmsdk_cm0.o"
+--strict --scatter ".\Objects\Task4.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\Task4.map" -o .\Objects\Task4.axf
