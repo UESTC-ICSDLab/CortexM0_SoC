@@ -1,6 +1,0 @@
---cpu Cortex-M0
-".\startup_cmsdk_cm0.o"
---noscanlib --strict --scatter ".\Task2.sct"
---summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
---info sizes --info totals --info unused --info veneers
---list ".\Listings\Task2.map" -o .\Task2.axf
