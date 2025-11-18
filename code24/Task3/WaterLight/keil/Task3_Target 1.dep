@@ -1,2 +1,0 @@
-Dependencies for Project 'Task3', Target 'Target 1': (DO NOT MODIFY !)
-F (.\startup_CMSDK_CM0.s)(0x65BDF5B9)(--cpu Cortex-M0 -g --apcs=interwork -I.\RTE\_Target_1-ID:\Keil_v5\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.8.1\Device\CMSDK_CM0\Include-ID:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 525" --pd "CMSDK_CM0 SETA 1"--list .\listings\startup_cmsdk_cm0.lst --xref -o .\startup_cmsdk_cm0.o --depend .\startup_cmsdk_cm0.d)

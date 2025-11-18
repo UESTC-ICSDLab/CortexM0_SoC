@@ -1,8 +1,0 @@
-Dependencies for Project 'CMSDK_CM0', Target 'Target 1': (DO NOT MODIFY !)
-F (..\..\call\startup_CMSDK_CM0.s)(0x65AF89CB)(--cpu Cortex-M0 -g --apcs=interwork -I.\RTE\_Target_1-ID:\Keil_v5\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.8.1\Device\CMSDK_CM0\Include-ID:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 525" --pd "CMSDK_CM0 SETA 1"--list .\listings\startup_cmsdk_cm0.lst --xref -o .\startup_cmsdk_cm0.o --depend .\startup_cmsdk_cm0.d)
-F (..\..\call\main.c)(0x65AFD796)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\Keil_v5\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.8.1\Device\CMSDK_CM0\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DCMSDK_CM0-o .\main.o --omf_browse .\main.crf --depend .\main.d)
-I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x5475F300)
-I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
-I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5475F300)
-F (..\..\call\f.s)(0x65AFDAB3)(--cpu Cortex-M0 -g --apcs=interwork -I.\RTE\_Target_1-ID:\Keil_v5\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.8.1\Device\CMSDK_CM0\Include-ID:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 525" --pd "CMSDK_CM0 SETA 1"--list .\listings\f.lst --xref -o .\f.o --depend .\f.d)
-F (..\..\call\strcopy.s)(0x65AF8598)(--cpu Cortex-M0 -g --apcs=interwork -I.\RTE\_Target_1-ID:\Keil_v5\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.8.1\Device\CMSDK_CM0\Include-ID:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 525" --pd "CMSDK_CM0 SETA 1"--list .\listings\strcopy.lst --xref -o .\strcopy.o --depend .\strcopy.d)
